@@ -6,7 +6,7 @@ public class Method {
 		
 		int result = Method2.max(2,8);
 		System.out.println(result);
-	System.out.println("sss");
+		System.out.println("hi world");
 	}
 	
 	
